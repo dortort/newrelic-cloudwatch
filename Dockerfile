@@ -4,7 +4,6 @@
 #
 ###
 FROM ubuntu:14.04
-MAINTAINER Kingsquare <docker@kingsquare.nl>
 
 WORKDIR /usr/local/newrelic_aws_cloudwatch_plugin-latest
 
