@@ -2,7 +2,7 @@ Newrelic-cloudwatch
 ===================
 
 A simple [newrelic cloudwatch plugin](https://github.com/newrelic-platform/newrelic_aws_cloudwatch_plugin) docker container
-This image is available for pulling from the [Docker hub](https://index.docker.io/u/gekkie/newrelic-cloudwatch/)
+This image is available for pulling from the [Docker hub](https://index.docker.io/u/dortort/newrelic-cloudwatch/)
 
 Launch this container with the following environment variables to suit your situation:
 
